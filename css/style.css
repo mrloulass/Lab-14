@@ -1,1 +1,67 @@
 /* TODO: Make it awesome */
+body {
+  background-color: rgb(104, 127, 171);
+}
+h1 {
+  font-family: 'Courier New', Courier, monospace;
+  font-size: 26px;
+  margin-left: 300px;
+  color: rgb(252, 249, 252);
+  font-weight: bolder;
+}
+footer p {
+  align-content: right;
+  font-size: larger;
+  padding-left: 300px;
+  padding-top: 300px;
+}
+li {
+  display: inline-block;
+  padding-left: 300px;
+}
+fieldset {
+  border: solid rgb(62, 220, 255) 5px;
+  height: 360px;
+  width: 700px;
+  margin-left: 300px;
+}
+legend {
+  font-family: 'Courier New', Courier, monospace;
+  font-size: 22px;
+  color: rgb(62, 220, 255);
+  font-weight: bolder;
+  padding: 5px;
+  margin: 10px;
+}
+ol {
+  text-align: left;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-size: 20px;
+}
+img {
+  height: 110px;
+  width: 160px;
+}
+nav {
+font-family: cursive;
+text-decoration: rgb(252, 249, 252);
+}
+th {
+  padding: 30px;
+}
+div#cart-container.card {
+  font-family: 'Courier New', Courier, monospace;
+  font-size: 22px;
+  color: rgb(62, 220, 255);
+  font-weight: bolder;
+  margin-left: 300px;
+  border: solid rgb(62, 220, 255) 5px;
+  height: 360px;
+  width: 700px;
+}
+section.deck.col-1 {
+  display: inline-block;
+}
+span {
+  padding-left: 30px;
+}
