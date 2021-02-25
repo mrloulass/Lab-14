@@ -6,7 +6,7 @@
 
 ## Codefellows Guidance for Lab 14
 
-1.
+1. do has much has you can
 
 ### 🎨 Designers
 
@@ -15,11 +15,20 @@
 
 ## C O L L A B O R A T I O N
 
-xxxxxxxxxxxxxxxxxxxxx
+T/A Ron help us understand the line of code.
+
+````javascript
+Cart.prototype.removeItem = function (item) {
+  localStorage.removeItem(item);
+};
+````
 
 ## R E F L E C T I O N S
 
-xxxxxxxxxxxxx
+We took breaks, took turns driving and navigating.
+We saw each others strengths and utilized them to work together well.
+Aloysious knew how to google for different concepts and code.
+Louis knew how to implement the code and understood the flow.
 
 ### L I N K S  &  R E S O U R C E S
 
