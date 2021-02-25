@@ -50,11 +50,14 @@ function addSelectedItemToCart() {
 }
 
 // TODO: Update the cart count in the header nav with the number of items in the Cart
-function updateCounter() {}
+function updateCounter() {
+  document.getElementById('itemCount').textContent = `: ${cart.items.lenght} item(s) in cart `;
+}
 
 // TODO: As you add items into the cart, show them (item & quantity) in the cart preview div
 function updateCartPreview() {
   // TODO: Get the item and quantity from the form
+
   // TODO: Add a new element to the cartContents div with that information
 }
 
